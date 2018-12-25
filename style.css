@@ -258,6 +258,7 @@ main {
 .start-section__banner {
     max-width: 90%;
     margin: 0 auto;
+    text-align: center;
 }
 
 .start-section__banner img {
